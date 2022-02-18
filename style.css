@@ -1,11 +1,26 @@
 body {
-    background-image: url(https://thumbs.dreamstime.com/b/modern-design-abstract-colorful-weird-wallpaper-background-texture-elements-121278302.jpg);
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/325986fe-4457-4045-93b3-c29ffcdc5351/dcbd153-d85254a8-7105-4eec-b6e7-79b1eb57747c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMyNTk4NmZlLTQ0NTctNDA0NS05M2IzLWMyOWZmY2RjNTM1MVwvZGNiZDE1My1kODUyNTRhOC03MTA1LTRlZWMtYjZlNy03OWIxZWI1Nzc0N2MucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UwiCDnTngAk6OqO4N3vfgWnA5xIs2jjvcdk2nYB_vPY);
     background-color: brown;
 }   
 
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+
+
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+ul {text-align: center;} 
+img {text-align: center;}
+b {text-align: center;}
+
 h1
-{color:blue;
+{color:white;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 size: 10px;
 }
